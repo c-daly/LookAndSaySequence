@@ -1,4 +1,4 @@
-package lookandsee;
+package lookandsay;
 
 import junit.framework.TestCase;
 import org.junit.Test;

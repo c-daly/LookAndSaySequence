@@ -1,4 +1,4 @@
-package lookandsee;
+package lookandsay;
 
 import java.math.BigInteger;
 

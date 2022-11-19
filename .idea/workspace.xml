@@ -68,32 +68,45 @@
   </component>
   <component name="RunManager" selected="JUnit.LookAndSayIteratorTest.testDefaultSeed">
     <configuration name="LookAndSayIteratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HW5_LookAndSee" />
+      <module name="HW5_LookAndSay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lookandsee.*" />
+          <option name="PATTERN" value="lookandsay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="lookandsee" />
-      <option name="MAIN_CLASS_NAME" value="lookandsee.LookAndSayIteratorTest" />
+      <option name="MAIN_CLASS_NAME" value="lookandsay.LookAndSayIteratorTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="LookAndSayIteratorTest.testDefaultSeed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HW5_LookAndSee" />
+      <module name="HW5_LookAndSay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lookandsee.*" />
+          <option name="PATTERN" value="lookandsay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="lookandsee" />
-      <option name="MAIN_CLASS_NAME" value="lookandsee.LookAndSayIteratorTest" />
+      <option name="MAIN_CLASS_NAME" value="lookandsay.LookAndSayIteratorTest" />
       <option name="METHOD_NAME" value="testDefaultSeed" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="HW5_LookAndSay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="HW5_LookAndSay" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
